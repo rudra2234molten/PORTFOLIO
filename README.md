@@ -35,6 +35,7 @@
 <img width="360" height="561" alt="Image" src="https://github.com/user-attachments/assets/d5c16715-3e08-4226-9a24-04a8d6973f2d" />
 <img width="1365" height="639" alt="Image" src="https://github.com/user-attachments/assets/8d9c7fdd-3c5a-417e-ab26-d8747a186f58" />
 <h2>PROJECTS SECTION</h2>
-<img width="1360" height="641" alt="Image" src="https://github.com/user-attachments/assets/6c52c86e-fa6a-490e-9475-5aa1232dd28e" />
+<img width="359" height="564" alt="Image" src="https://github.com/user-attachments/assets/191e7875-07b5-4b3e-a596-420fd646330b" />
+<img width="1365" height="631" alt="Image" src="https://github.com/user-attachments/assets/48454829-10f2-423c-8829-8c76d596e92a" />
 <h2>CONTACT SECTION</h2>
 <img width="1364" height="642" alt="Image" src="https://github.com/user-attachments/assets/b2279df4-67d7-4ae8-89fa-a00bc2202e12" />
