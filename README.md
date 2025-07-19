@@ -25,6 +25,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <h1>PROJECT SCREENSHOT'S </h1>
+<hr>
 <h2>HOME SECTION</h2>
 <img width="354" height="686" alt="Image" src="https://github.com/user-attachments/assets/4e679241-6232-4e21-b9d5-474d217cf0cf" />
 <img width="1365" height="643" alt="Image" src="https://github.com/user-attachments/assets/0ca3c013-7d26-4e61-b669-9e7e4c20f443" />
@@ -38,4 +39,6 @@
 <img width="359" height="564" alt="Image" src="https://github.com/user-attachments/assets/191e7875-07b5-4b3e-a596-420fd646330b" />
 <img width="1365" height="631" alt="Image" src="https://github.com/user-attachments/assets/48454829-10f2-423c-8829-8c76d596e92a" />
 <h2>CONTACT SECTION</h2>
-<img width="1364" height="642" alt="Image" src="https://github.com/user-attachments/assets/b2279df4-67d7-4ae8-89fa-a00bc2202e12" />
+<img width="360" height="690" alt="Image" src="https://github.com/user-attachments/assets/82864f55-9b2e-4d5a-a86b-49432ac23359" />
+<img width="360" height="565" alt="Image" src="https://github.com/user-attachments/assets/b1f61fee-a4af-4b47-85bb-6e9926854139" />
+<img width="1365" height="637" alt="Image" src="https://github.com/user-attachments/assets/3297563b-13ca-411f-a502-ae0960ae6888" />
