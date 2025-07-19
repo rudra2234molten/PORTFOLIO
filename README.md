@@ -32,7 +32,8 @@
 <img width="361" height="568" alt="Image" src="https://github.com/user-attachments/assets/2f57773e-7452-4d7f-bd84-c0d4a4ac2dad" />
 <img width="1365" height="637" alt="Image" src="https://github.com/user-attachments/assets/2bb00e5a-b156-41aa-8873-79a3ce276d60" />
 <h2>SKILL SECTION</h2>
-<img width="1360" height="643" alt="Image" src="https://github.com/user-attachments/assets/178a9405-efb7-4230-8b01-04cd7794cae0" />
+<img width="360" height="561" alt="Image" src="https://github.com/user-attachments/assets/d5c16715-3e08-4226-9a24-04a8d6973f2d" />
+<img width="1365" height="639" alt="Image" src="https://github.com/user-attachments/assets/8d9c7fdd-3c5a-417e-ab26-d8747a186f58" />
 <h2>PROJECTS SECTION</h2>
 <img width="1360" height="641" alt="Image" src="https://github.com/user-attachments/assets/6c52c86e-fa6a-490e-9475-5aa1232dd28e" />
 <h2>CONTACT SECTION</h2>
