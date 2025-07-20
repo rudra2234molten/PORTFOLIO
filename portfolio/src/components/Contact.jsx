@@ -7,8 +7,7 @@ import { FaFacebookSquare } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";
 import { FaPinterestP } from "react-icons/fa6";
 import { FaInstagramSquare } from "react-icons/fa";
-
-
+import { FaSquareGithub } from "react-icons/fa6";
 
 
 const contactArray = [{ icon: <FaLocationDot />, title: 'Hyderabad,India' }, { icon: <FaPhoneAlt />, title: '+91-9348894744' }, { icon: <HiMail />, title: 'rb645228@gmail.com' },]
@@ -67,7 +66,7 @@ const Contact = () => {
           </button>
         </form>
         <div className='flex gap-3 mt-10'>
-          {[{ logo: <FaFacebookSquare />, link: 'https://www.facebook.com/rohit.behera.319247' }, { logo: <FaLinkedin />, link: 'https://www.linkedin.com/in/rudra-behera-bbb45b2bb/' }, { logo: <FaPinterestP />, link: 'https://in.pinterest.com/jatin9078860210/' }, { logo: <FaInstagramSquare />, link:'https://www.instagram.com/rb_knight337/'}].map((data, index) => (
+          {[{ logo: <FaSquareGithub />, link:'https://github.com/rudra2234molten'},{ logo: <FaFacebookSquare />, link: 'https://www.facebook.com/rohit.behera.319247' }, { logo: <FaLinkedin />, link: 'https://www.linkedin.com/in/rudra-behera-bbb45b2bb/' }, { logo: <FaPinterestP />, link: 'https://in.pinterest.com/jatin9078860210/' }, { logo: <FaInstagramSquare />, link:'https://www.instagram.com/rb_knight337/'}].map((data, index) => (
             <a href={data.link} key={index} className='text-[#757575] hover:text-white text-3xl transition-all duration-200 cursor-pointer'>{data.logo}</a>
           ))}
         </div>

@@ -6,7 +6,7 @@ import Projects from './Projects'
 
 const Home = () => {
   return (
-    <section className='w-full h-auto sm:pl-50 sm:pr-40 pt-20 sm:pt-10 bg-black text-white'>
+    <section className='w-full h-auto sm:pl-50 md:pl-44 md:pr-20 sm:pr-40 pt-20 sm:pt-10 bg-black text-white'>
       <Hero />
       <About />
       <Projects />
